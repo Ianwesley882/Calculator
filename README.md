@@ -4,7 +4,7 @@ This is a simple calculator web application built using **HTML**, **CSS**, and *
 
 ## 📸 Demo
 
-![Calculator Screenshot](https://via.placeholder.com/400x300.png?text=Calculator+UI)
+![Calculator Screenshot](https://images/calculator)
 
 > Replace the image URL with your own screenshot if you'd like.
 
@@ -35,11 +35,6 @@ This is a simple calculator web application built using **HTML**, **CSS**, and *
 - Improve mobile responsiveness
 - Enhance UI with better CSS styling
 - Include percentage and decimal operations
-
-## 👤 Author
-
-Ngwako Mokwena  
-[GitHub Profile](https://github.com/Ianwesley882)
 
 ---
 
