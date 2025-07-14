@@ -2,12 +2,6 @@
 
 This is a simple calculator web application built using **HTML**, **CSS**, and **JavaScript**. The app allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-## 📸 Demo
-
-![Calculator Screenshot](https://images/calculator)
-
-> Replace the image URL with your own screenshot if you'd like.
-
 ## 🚀 Features
 
 - Responsive user interface using HTML tables
